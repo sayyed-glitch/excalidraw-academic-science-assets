@@ -1,32 +1,66 @@
-# 🧪 Interactive Periodic Table — Free Sample
-**By Sayyed Glitch (Jaid Sayyed) | @broexplainsscience**
+# 🔬 Excalidraw Academic & Scientific Asset Library
 
-A complete visual periodic table for Excalidraw with all 118 elements  
-as individual draggable library blocks — perfect for chemistry notes.
+Welcome to the official repository for **Sayyed Glitch** (`@broexplainsscience`). We create high-quality, hand-drawn style visual assets using Excalidraw, designed specifically to level up your chemistry, pharmacy, and academic notes.
 
-## ✨ What's Inside
-- All 118 elements as individual Excalidraw library blocks
-- Each block: Atomic Number, Symbol, Full Name, Memory Shortcode
-- Color-coded by element group
-- Ready to drag, resize, and annotate
+---
 
-![Screenshot](https://github.com/sayyed-glitch/excalidraw-academic-science-assets/blob/main/periodic-table/perodic%20table%20free%20kit.png)
+## 🎁 Free Sample: Interactive Periodic Table
 
-## 📥 How to Import
-1. Download `library.excalidrawlib`
-2. Open Excalidraw → click the 📚 Library icon
-3. Click **Import** and select the file
-4. All elements appear in your library panel instantly
+Download a fully configured periodic table library featuring:
 
-## 🛒 Want the Full Premium Pack?
-This is a **free sample**. The premium version includes:
-- Electron configuration diagrams
-- Periodic trends charts  
-- Reaction mechanism templates
-- Lifetime updates
+- All 118 elements with Atomic Number, Symbol, Full Name
+- Colour-coded by element category
+- Custom note-taking memory shortcode on each block
+- Legal license card embedded on canvas
 
-➡️ **[Get it on Gumroad](https://broexplainscience.gumroad.com/)**
+### 📥 How to Download
 
-## ⚖️ License
-CC BY-NC-ND 4.0 — Personal educational use only.  
-© 2026 Jaid Sayyed. All Rights Reserved.
+1. Download the file directly: [`periodic-table/library.excalidrawlib`](./periodic-table/library.excalidrawlib)
+2. Open [Excalidraw](https://excalidraw.com)
+3. Click the **Library** icon → **Load** → select the downloaded file
+4. All elements appear in your personal library panel instantly
+
+---
+
+## 🛒 Full Premium Pack — Available Now
+
+The **Full Premium Periodic Table Pack** is live!
+
+👉 **[Get it on Gumroad →](https://broexplainsscience.gumroad.com)**
+
+---
+
+## 🚀 Upcoming Asset Packs (In Production)
+
+Your support keeps this project alive. We are currently building:
+
+- 🧪 Chemistry & Pharmacy laboratory instrument libraries
+- 📚 Minimalist academic study note templates
+- 📋 Universal laboratory experiment and data log sheets
+
+---
+
+## 📄 License & Copyright
+
+Copyright © 2026 Jaid Sayyed (Sayyed Glitch). All Rights Reserved.  
+Protected under the **Indian Copyright Act 1957** and the **Berne Convention** (181 countries worldwide).
+
+See the [LICENSE](https://github.com/sayyed-glitch/excalidraw-academic-science-assets/blob/main/LICENSE) file for full terms.
+
+| Use | Allowed? |
+|---|---|
+| Personal study notes | ✅ Yes |
+| Educational non-commercial use | ✅ Yes |
+| Commercial resale or repackaging | ❌ No |
+| Redistribution on public drives | ❌ No |
+| Modification and derivative works | ❌ No |
+
+Violations may result in DMCA takedown and legal action under applicable law.
+
+---
+
+## 🔗 Connect
+
+- **Instagram:** [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
+- **Gumroad:** [broexplainsscience.gumroad.com](https://broexplainsscience.gumroad.com)
+- **GitHub:** [sayyed-glitch](https://github.com/sayyed-glitch)

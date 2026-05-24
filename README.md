@@ -55,7 +55,7 @@ If these assets helped your studies or work, consider buying me a coffee — eve
 | Platform | Link |
 |----------|------|
 | ☕ Ko-fi | [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME) |
-| 💙 PayPal | [paypal.me/YOUR_USERNAME](https://paypal.me/Jaid105) |
+| 💙 PayPal | [paypal.me/Jaid105](https://paypal.me/Jaid105) |
 
 > **QR codes coming soon** — upload `kofi-qr.png` and `paypal-qr.png`  
 > to an `assets/` folder and replace the links above.

@@ -54,7 +54,7 @@ If these assets helped your studies or work, consider buying me a coffee — eve
 
 | Platform | Link |
 |----------|------|
-| ☕ Ko-fi | [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME) |
+| ☕ Ko-fi | [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience) |
 | 💙 PayPal | [paypal.me/Jaid105](https://paypal.me/Jaid105) |
 
 > **QR codes coming soon** — upload `kofi-qr.png` and `paypal-qr.png`  
@@ -81,5 +81,5 @@ See [LICENSE](LICENSE) for full legal terms.
 - 📸 Instagram: [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
 - 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainscience.gumroad.com)
 - 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)
-- ☕ Ko-fi: [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME)
+- ☕ Ko-fi: [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience)
 - 💙 PayPal: [paypal.me/Jaid105](https://paypal.me/Jaid105)

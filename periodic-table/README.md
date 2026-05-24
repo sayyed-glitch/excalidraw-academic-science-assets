@@ -5,9 +5,7 @@ Welcome to the official repository for **Sayyed Glitch** (`@broexplainsscience`)
 ---
 
 ## 🎁 Free Sample: Interactive Periodic Table
-
-![Periodic Table Preview](.periodic-table/preview.png)
-
+![Periodic Table Preview](https://raw.githubusercontent.com/sayyed-glitch/excalidraw-academic-science-assets/main/periodic-table/preview.png)
 Download a fully configured periodic table library featuring:
 
 - All 118 elements with Atomic Number, Symbol, Full Name

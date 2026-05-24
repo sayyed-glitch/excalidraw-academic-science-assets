@@ -31,7 +31,7 @@ built for chemistry, pharmacy, and academic note-taking.
 The complete periodic table as individual draggable element blocks.  
 Each block includes: Atomic Number · Symbol · Full Name · Memory Shortcode.
 
-➡️ **[Full Premium Pack on Gumroad](https://broexplainsscience.gumroad.com)**
+➡️ **[Full Premium Pack on Gumroad](https://broexplainscience.gumroad.com)**
 
 ---
 
@@ -55,7 +55,7 @@ If these assets helped your studies or work, consider buying me a coffee — eve
 | Platform | Link |
 |----------|------|
 | ☕ Ko-fi | [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME) |
-| 💙 PayPal | [paypal.me/YOUR_USERNAME](https://paypal.me/YOUR_USERNAME) |
+| 💙 PayPal | [paypal.me/YOUR_USERNAME](https://paypal.me/Jaid105) |
 
 > **QR codes coming soon** — upload `kofi-qr.png` and `paypal-qr.png`  
 > to an `assets/` folder and replace the links above.
@@ -79,7 +79,7 @@ See [LICENSE](LICENSE) for full legal terms.
 ## 🔗 Connect
 
 - 📸 Instagram: [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
-- 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainsscience.gumroad.com)
+- 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainscience.gumroad.com)
 - 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)
 - ☕ Ko-fi: [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME)
-- 💙 PayPal: [paypal.me/YOUR_USERNAME](https://paypal.me/YOUR_USERNAME)
+- 💙 PayPal: [paypal.me/Jaid105](https://paypal.me/Jaid105)

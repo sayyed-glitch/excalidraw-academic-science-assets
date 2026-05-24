@@ -78,7 +78,9 @@ See [LICENSE](LICENSE) for full legal terms.
 ---
 
 ##📧 **Contact:**
+
 buyers and collaborators
+
 [contact form / Gumroad message](https://broexplainscience.gumroad.com) 
 or reach out via [Instagram DM](https://www.instagram.com/bro_explains_science/)
 

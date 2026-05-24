@@ -48,7 +48,8 @@ The **first 30 donors** who contribute will receive:
 - Permanent membership-level perks — even if future paid plans launch
 
 > After donating, please send a screenshot of your payment with timestamp to  
-> 📧 **jaidsayyed0587@gmail.com** for confirmation.
+> 📧 **simplelogin-newsletter.idealist372@simplelogin.com** for confirmation.
+> The first 30 persons will be added to the list next 25 on 500$ next 50 on 1000$
 
 If these assets helped your studies or work, consider buying me a coffee — every contribution helps me build more free science resources. 🙏
 
@@ -75,6 +76,11 @@ Protected under the **Indian Copyright Act 1957** and the
 See [LICENSE](LICENSE) for full legal terms.
 
 ---
+
+##📧 **Contact:**
+buyers and collaborators
+[contact form / Gumroad message](https://broexplainscience.gumroad.com) 
+or reach out via [Instagram DM](https://www.instagram.com/bro_explains_science/)
 
 ## 🔗 Connect
 

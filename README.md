@@ -49,7 +49,7 @@ The **first 30 donors** who contribute will receive:
 
 > After donating, please send a screenshot of your payment with timestamp to  
 > 📧 **simplelogin-newsletter.idealist372@simplelogin.com** for confirmation.
-> The first 30 persons will be added to the list next 25 on 500$ next 50 on 1000$
+> > Spots 1–30: Free early access | Spots 31–55: Unlocks at $500 total raised | Spots 56–105: Unlocks at $1000 total raised
 
 If these assets helped your studies or work, consider buying me a coffee — every contribution helps me build more free science resources. 🙏
 
@@ -74,18 +74,11 @@ See [LICENSE](LICENSE) for full legal terms.
 
 ---
 
-##📧 **Contact:**
-
-buyers and collaborators
-
-[contact form / Gumroad message](https://broexplainscience.gumroad.com) 
-or reach out via [Instagram DM](https://www.instagram.com/bro_explains_science/)
-
-## 🔗 Connect
+## 📧 Connect/Contact
+💕 buyers and collaborators 💕
 
 - 📸 Instagram: [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
 - 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainscience.gumroad.com)
 - 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)
 - ☕ Ko-fi: [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience)
-- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'N2D1204XK7');kofiwidget2.draw();</script> 
 - 💙 PayPal: [paypal.me/Jaid105](https://paypal.me/Jaid105)

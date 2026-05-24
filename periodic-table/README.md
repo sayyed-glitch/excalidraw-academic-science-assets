@@ -15,7 +15,7 @@ Download a fully configured periodic table library featuring:
 
 ### 📥 How to Download
 
-1. Download the file directly: [`periodic-table/library.excalidrawlib`](./periodic-table/library.excalidrawlib)
+1. Download the file directly: [`periodic-table/library.excalidrawlib`](https://github.com/sayyed-glitch/excalidraw-academic-science-assets/blob/main/periodic-table/library.excalidrawlib)
 2. Open [Excalidraw](https://excalidraw.com)
 3. Click the **Library** icon → **Load** → select the downloaded file
 4. All elements appear in your personal library panel instantly

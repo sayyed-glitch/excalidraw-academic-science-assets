@@ -23,7 +23,7 @@ This is a **free sample**. The premium version includes:
 - Reaction mechanism templates
 - Lifetime updates
 
-➡️ **[Get it on Gumroad](https://broexplainsscience.gumroad.com)**
+➡️ **[Get it on Gumroad](https://broexplainscience.gumroad.com/)**
 
 ## ⚖️ License
 CC BY-NC-ND 4.0 — Personal educational use only.  

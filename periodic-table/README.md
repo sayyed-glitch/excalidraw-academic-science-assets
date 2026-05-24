@@ -1,6 +1,8 @@
 # 🧪 Interactive Periodic Table — Free Sample
 **By Sayyed Glitch (Jaid Sayyed) | @broexplainsscience**
 
+![Screenshot](https://github.com/sayyed-glitch/excalidraw-academic-science-assets/blob/main/periodic-table/perodic%20table%20free%20kit.png)
+
 A complete visual periodic table for Excalidraw with all 118 elements  
 as individual draggable library blocks — perfect for chemistry notes.
 

@@ -2,7 +2,8 @@
 ### By Sayyed Glitch (Jaid Sayyed) | @broexplainsscience
 
 High-quality, hand-drawn style visual assets for Excalidraw —  
-built for chemistry, pharmacy, and academic note-taking.
+built for chemistry, pharmacy, and academic note-taking.  
+**No AI. No shortcuts. Just expertise.**
 
 ---
 
@@ -12,8 +13,9 @@ built for chemistry, pharmacy, and academic note-taking.
 |-------|--------|----------|
 | 🧪 Interactive Periodic Table | ✅ Free Sample | [Download](periodic-table/library.excalidrawlib) |
 | 🔬 Chemistry Lab Glassware | 🔜 Coming Soon | — |
-| 💊 Pharmacy Symbols | 🔜 Coming Soon | — |
-| 📋 Lab Report Templates | 🔜 Coming Soon | — |
+| 🏭 Advanced Lab Instruments (HPLC, GC, IR, UV-Vis & more) | 🔜 Coming Soon | — |
+| 💊 Pharmacy Symbols & Drug Structures | 🔜 Coming Soon | — |
+| 📋 Lab Report & Data Templates | 🔜 Coming Soon | — |
 
 ---
 
@@ -26,10 +28,37 @@ built for chemistry, pharmacy, and academic note-taking.
 ---
 
 ## 🎁 Free Sample: Interactive Periodic Table
-The complete periodic table built as individual draggable element blocks.  
+The complete periodic table as individual draggable element blocks.  
 Each block includes: Atomic Number · Symbol · Full Name · Memory Shortcode.
 
 ➡️ **[Full Premium Pack on Gumroad](https://broexplainsscience.gumroad.com)**
+
+---
+
+## ☕ Support This Project
+
+I recently left my role in the **Quality Management department of a large pharmaceutical generic manufacturing company** to pursue my **Master's in Pharmaceutical Analysis** — and to build something I'm truly passionate about.
+
+Every asset here is made from real domain expertise. No AI generation. No compromise on quality.
+
+**Early Supporter Perk 🎁**  
+The **first 30 donors** who contribute will receive:
+- Lifetime early access to new assets before public release
+- Direct updates straight from the source
+- Permanent membership-level perks — even if future paid plans launch
+
+> After donating, please send a screenshot of your payment with timestamp to  
+> 📧 **jaidsayyed0587@gmail.com** for confirmation.
+
+If these assets helped your studies or work, consider buying me a coffee — every contribution helps me build more free science resources. 🙏
+
+| Platform | Link |
+|----------|------|
+| ☕ Ko-fi | [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME) |
+| 💙 PayPal | [paypal.me/YOUR_USERNAME](https://paypal.me/YOUR_USERNAME) |
+
+> **QR codes coming soon** — upload `kofi-qr.png` and `paypal-qr.png`  
+> to an `assets/` folder and replace the links above.
 
 ---
 
@@ -48,6 +77,9 @@ See [LICENSE](LICENSE) for full legal terms.
 ---
 
 ## 🔗 Connect
+
 - 📸 Instagram: [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
 - 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainsscience.gumroad.com)
 - 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)
+- ☕ Ko-fi: [ko-fi.com/YOUR_USERNAME](https://ko-fi.com/YOUR_USERNAME)
+- 💙 PayPal: [paypal.me/YOUR_USERNAME](https://paypal.me/YOUR_USERNAME)

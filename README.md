@@ -79,6 +79,7 @@ See [LICENSE](LICENSE) for full legal terms.
 
 - 📸 Instagram: [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
 - 🛒 Gumroad: [broexplainscience.gumroad.com](https://broexplainscience.gumroad.com)
+- ❎ twitter: [@BroExplains_Sci](https://x.com/BroExplains_Sci)
 - 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)
 - ☕ Ko-fi: [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience)
 - 💙 PayPal: [paypal.me/Jaid105](https://paypal.me/Jaid105)

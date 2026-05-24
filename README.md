@@ -55,7 +55,7 @@ If these assets helped your studies or work, consider buying me a coffee — eve
 
 | Platform | Link |
 |----------|------|
-| ☕ Ko-fi | [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience) |<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'N2D1204XK7');kofiwidget2.draw();</script> 
+| ☕ Ko-fi | [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience) |
 | 💙 PayPal | [paypal.me/Jaid105](https://paypal.me/Jaid105) |
 
 ---

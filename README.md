@@ -1,44 +1,53 @@
 # 🔬 Excalidraw Academic & Scientific Asset Library
+### By Sayyed Glitch (Jaid Sayyed) | @broexplainsscience
 
-Welcome to the official repository for **bro_explains_science**. We create high-quality, hand-drawn style visual assets using Excalidraw, designed specifically to level up your chemistry, pharmacy, and academic notes.
-
----
-
-## 🎁 Free Sample: Periodic Table Element Block
-Download a single, fully configured element block featuring:
-- Atomic Number
-- Element Symbol
-- Full Name
-- Custom Note-taking Memory Shortcode
-
-### 📥 How to Download the Sample
-1. Click on the `.excalidraw` or `.svg` file in this repository (once uploaded).
-2. Click the **Download raw file** button on the top right.
-3. Import it directly into your [Excalidraw](https://excalidraw.com) canvas!
+High-quality, hand-drawn style visual assets for Excalidraw —  
+built for chemistry, pharmacy, and academic note-taking.
 
 ---
 
-## 📅 Product Launch Schedule
-- 🎬 **Friday, May 22:** Behind-the-scenes production sneak peeks on Instagram.
-- 📊 **Sunday, May 24 / Monday, May 25:** The **FULL Premium Periodic Table Pack** goes live for purchase!
+## 📦 Available Assets
 
-### 🚀 Upcoming Asset Packs (In Production)
-Your support helps keep this project alive! We are currently working on detailed libraries for:
-- 🧪 Chemistry & Pharmacy laboratory instruments
-- 📚 Minimalist academic study note templates
-- 📋 Universal laboratory experiment and data logs
-
----
-
-## 📄 License & Copyright Protection
-
-Copyright © 2026 bro_explains_science. All Rights Reserved. See the LICENSE file for full terms.
-
-- **Personal & Academic Use:** You are 100% free to download and use the sample block for your own private study notes.
-- **Commercial Use & Redistribution:** Strictly Prohibited. You may **NOT** resell, repackage, clone, or redistribute these files on any digital marketplace or public drive without explicit written permission.
+| Asset | Status | Download |
+|-------|--------|----------|
+| 🧪 Interactive Periodic Table | ✅ Free Sample | [Download](periodic-table/library.excalidrawlib) |
+| 🔬 Chemistry Lab Glassware | 🔜 Coming Soon | — |
+| 💊 Pharmacy Symbols | 🔜 Coming Soon | — |
+| 📋 Lab Report Templates | 🔜 Coming Soon | — |
 
 ---
 
-## 🔗 Connect With Us
-- **Instagram:** [://instagram.com](https://www.instagram.com/bro_explains_science/)
-- **GitHub:** [://github.com](https://github.com/sayyed-glitch)
+## 📥 How to Use Any Asset
+1. Click the `.excalidrawlib` link in the table above
+2. Click **Download raw file** (top right on GitHub)
+3. Open [Excalidraw](https://excalidraw.com) → Library icon → **Import**
+4. Done — all elements are ready to drag onto your canvas!
+
+---
+
+## 🎁 Free Sample: Interactive Periodic Table
+The complete periodic table built as individual draggable element blocks.  
+Each block includes: Atomic Number · Symbol · Full Name · Memory Shortcode.
+
+➡️ **[Full Premium Pack on Gumroad](https://broexplainsscience.gumroad.com)**
+
+---
+
+## ⚖️ License & Copyright
+
+Copyright © 2026 Jaid Sayyed (Sayyed Glitch). All Rights Reserved.  
+Protected under the **Indian Copyright Act 1957** and the  
+**Berne Convention** (181 countries worldwide).
+
+- ✅ **Allowed:** Personal study, academic note-taking, private use
+- ❌ **Prohibited:** Resale, redistribution, uploading to public drives,  
+  repackaging into competing asset libraries
+
+See [LICENSE](LICENSE) for full legal terms.
+
+---
+
+## 🔗 Connect
+- 📸 Instagram: [@bro_explains_science](https://www.instagram.com/bro_explains_science/)
+- 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainsscience.gumroad.com)
+- 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)

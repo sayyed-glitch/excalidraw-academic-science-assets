@@ -87,4 +87,5 @@ or reach out via [Instagram DM](https://www.instagram.com/bro_explains_science/)
 - 🛒 Gumroad: [broexplainsscience.gumroad.com](https://broexplainscience.gumroad.com)
 - 💻 GitHub: [github.com/sayyed-glitch](https://github.com/sayyed-glitch)
 - ☕ Ko-fi: [ko-fi.com/broexplainsscience](https://ko-fi.com/broexplainsscience)
+- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'N2D1204XK7');kofiwidget2.draw();</script> 
 - 💙 PayPal: [paypal.me/Jaid105](https://paypal.me/Jaid105)

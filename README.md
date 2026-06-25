@@ -11,7 +11,7 @@ built for chemistry, pharmacy, and academic note-taking.
 
 | Asset | Status | Download |
 |-------|--------|----------|
-| 🧪 Interactive Periodic Table | ✅ Free Sample | [Download](https://github.com/sayyed-glitch/excalidraw-academic-science-assets/blob/main/periodic-table/library.excalidrawlib) |
+| 🧪 Interactive Periodic Table | ✅ Free Sample | [Download](/periodic-table/library.excalidrawlib) |
 | 🔬 Chemistry Lab Glassware | 🔜 Coming Soon | — |
 | 🏭 Advanced Lab Instruments (HPLC, GC, IR, UV-Vis & more) | 🔜 Coming Soon | — |
 | 💊 Pharmacy Symbols & Drug Structures | 🔜 Coming Soon | — |
